@@ -15,6 +15,7 @@ while True:
         sleep(0.1)
         keyboard.press("Enter")
         keyboard.release("Enter")
+        print("App hotkey one pressed")
 
 #Overlays
     #Discord
@@ -24,3 +25,4 @@ while True:
         keyboard.press("Shift")
         keyboard.write("'")
         keyboard.release("Shift")
+        print("Overlay hotkey one pressed")
