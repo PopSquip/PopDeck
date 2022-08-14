@@ -11,6 +11,8 @@ If you want to modify the software you should use the package manager [pip](http
 pip install keyboard
 ```
 
+The executable can be found in the "EXE" folder!
+
 ## Usage
 
 This tool can be used to make macros with the python programming language!
